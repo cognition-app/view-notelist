@@ -1,0 +1,10 @@
+{
+  "@type": "https://raw.githubusercontent.com/cognition-app/schema/master/core/View.json",
+  "@id": "notelist",
+  "name": "Notelist",
+  "version": "1.0.0",
+  "description": "Note list view plugin for markdown notes",
+  "supportedDocs": [
+    "https://raw.githubusercontent.com/cognition-app/schema/master/core/Document.json"
+  ]
+}
